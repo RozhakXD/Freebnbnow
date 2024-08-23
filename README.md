@@ -5,10 +5,10 @@
 Freebnbnow is a powerful Python tool designed to automatically claim Mining Speed every hour, helping you maximize your BNB mining potential effortlessly. With an easy-to-use interface and reliable performance, this tool is perfect for users who want to optimize their mining process.
 
 ## Key Features
-- **Automated Mining Speed Claims**: Automatically claim 25 TH/S every hour.
-- **User-Friendly Interface**: Simple and intuitive interface powered by the `rich` library.
-- **Secure Cookie Management**: Safely input and manage your session cookies.
 - **Real-Time Feedback**: Get real-time updates on the status of your claims and any potential issues.
+- **User-Friendly Interface**: Simple and intuitive interface powered by the `rich` library.
+- **Automated Mining Speed Claims**: Automatically claim 25 TH/S every hour.
+- **Secure Cookie Management**: Safely input and manage your session cookies.
 - **Error Handling**: Comprehensive error messages to guide you through any problems.
 
 ## Installation
@@ -31,8 +31,8 @@ Freebnbnow is a powerful Python tool designed to automatically claim Mining Spee
 3. **Let It Run**: The tool will automatically claim Mining Speed for you every hour. Monitor the console for real-time updates and follow any instructions provided.
 
 ## Troubleshooting
-- **Invalid Cookies**: If you receive an error stating that the cookies are incorrect, double-check that you have copied the correct SESSION cookie from your browser. Ensure that it contains session= and try again.
 - **Stuck at "WAIT X SECOND!"**: If the program is stuck counting down the seconds but doesn't proceed, your session may have expired. Restart the program and input fresh cookies.
+- **Invalid Cookies**: If you receive an error stating that the cookies are incorrect, double-check that you have copied the correct SESSION cookie from your browser. Ensure that it contains session= and try again.
 - **Connection Issues**: If you see a message about connection problems, ensure that your internet connection is stable. The program will retry after 10 seconds.
 - **Mining Speed Not Claimed**: If the mining speed isn't claimed even after the countdown, this could be due to a temporary issue with the Freebnbnow website. Wait a few minutes and try again.
 
