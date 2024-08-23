@@ -5,11 +5,11 @@
 Freebnbnow is a Python tool that automatically claims Mining Speed every hour, helping you maximize your BNB mining with ease. It offers a simple interface and reliable performance, making it perfect for users who want to improve their mining efficiency.
 
 ## Key Features
-- **Real-Time Feedback**: Get real-time updates on the status of your claims and any potential issues.
+- **Error Handling**: Comprehensive error messages to guide you through any problems.
 - **User-Friendly Interface**: Simple and intuitive interface powered by the `rich` library.
 - **Automated Mining Speed Claims**: Automatically claim 25 TH/S every hour.
 - **Secure Cookie Management**: Safely input and manage your session cookies.
-- **Error Handling**: Comprehensive error messages to guide you through any problems.
+- **Real-Time Feedback**: Get real-time updates on the status of your claims and any potential issues.
 
 ## Installation
 1. **Clone the Repository:**
